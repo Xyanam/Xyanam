@@ -1,5 +1,5 @@
 # 👋 Hi everyone, I'm Aleksey
-- :sunrise: Frontend Developer from Russia
+- :sunrise: Frontend Developer
 - 🌱 I’m currently working with React and everything Web development related
 
 # Languages and Tools
